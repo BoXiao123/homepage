@@ -1382,7 +1382,7 @@ body {
 .cid-r1cPPZq0uq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 @media (min-width: 992px) {
   .cid-r1cPPZq0uq .mbr-figure {
@@ -1398,4 +1398,18 @@ body {
   .cid-r1cPPZq0uq .mbr-text {
     text-align: center;
   }
+}
+.cid-r1cPPZq0uq H1 {
+  color: #000000;
+}
+.cid-r1cPPZq0uq .mbr-text,
+.cid-r1cPPZq0uq .mbr-section-btn {
+  color: #000000;
+}
+.cid-r1cPPZq0uq B {
+  color: #ffffff;
+}
+.cid-r1cPPZq0uq .mbr-text,
+.cid-r1cPPZq0uq .mbr-section-btn B {
+  color: #ffffff;
 }
